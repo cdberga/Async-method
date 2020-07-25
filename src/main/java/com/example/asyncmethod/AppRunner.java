@@ -1,5 +1,6 @@
-import java.util.concurrent.CompletableFuture;
+package com.example.asyncmethod;
 
+import java.util.concurrent.CompletableFuture;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
